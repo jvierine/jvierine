@@ -8,7 +8,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jvierine&utcOffset=2) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvierine&show_icons=true)](https://github.com/jvierine/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jvierine)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jvierine/jvierine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
