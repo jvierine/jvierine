@@ -1,13 +1,13 @@
 ## Hi there 👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvierine&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvierine) 
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvierine&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvierine&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvierine) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvierine)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvierine&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jvierine&theme=dark&utcOffset=0) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvierine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jvierine&utcOffset=2) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvierine&show_icons=true&theme=dark)](https://github.com/jvierine/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvierine&show_icons=true)](https://github.com/jvierine/github-readme-stats)
 <!--
 **jvierine/jvierine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
