@@ -1,4 +1,7 @@
-## Hi there 👋
+## 
+
+I try to put my code on github so that I don't lose track of it. Some of it might also be useful to others. If you find something useful, please let me know. 
+
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvierine)  -->
   
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvierine)  -->
